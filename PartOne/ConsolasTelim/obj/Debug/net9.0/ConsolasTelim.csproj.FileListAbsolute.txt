@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/bin/Debug/net9.0/ConsolasTelim
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/bin/Debug/net9.0/ConsolasTelim.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/bin/Debug/net9.0/ConsolasTelim.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/bin/Debug/net9.0/ConsolasTelim.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/bin/Debug/net9.0/ConsolasTelim.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/refint/ConsolasTelim.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ConsolasTelim.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ConsolasTelim/obj/Debug/net9.0/ref/ConsolasTelim.dll

@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/bin/Debug/net9.0/ThingNamer3000
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/bin/Debug/net9.0/ThingNamer3000.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/bin/Debug/net9.0/ThingNamer3000.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/bin/Debug/net9.0/ThingNamer3000.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/bin/Debug/net9.0/ThingNamer3000.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/refint/ThingNamer3000.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ThingNamer3000.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ThingNamer3000/obj/Debug/net9.0/ref/ThingNamer3000.dll
