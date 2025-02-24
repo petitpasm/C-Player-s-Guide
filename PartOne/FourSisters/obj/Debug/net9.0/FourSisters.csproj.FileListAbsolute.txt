@@ -1,0 +1,14 @@
+/home/maxime/Code/C#/PersonalTraining/FourSisters/bin/Debug/net9.0/FourSisters
+/home/maxime/Code/C#/PersonalTraining/FourSisters/bin/Debug/net9.0/FourSisters.deps.json
+/home/maxime/Code/C#/PersonalTraining/FourSisters/bin/Debug/net9.0/FourSisters.runtimeconfig.json
+/home/maxime/Code/C#/PersonalTraining/FourSisters/bin/Debug/net9.0/FourSisters.dll
+/home/maxime/Code/C#/PersonalTraining/FourSisters/bin/Debug/net9.0/FourSisters.pdb
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.AssemblyInfo.cs
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.dll
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/refint/FourSisters.dll
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.pdb
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/FourSisters.genruntimeconfig.cache
+/home/maxime/Code/C#/PersonalTraining/FourSisters/obj/Debug/net9.0/ref/FourSisters.dll

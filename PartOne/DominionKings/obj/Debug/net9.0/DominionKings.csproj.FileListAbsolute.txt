@@ -1,0 +1,14 @@
+/home/maxime/Code/C#/PersonalTraining/DominionKings/bin/Debug/net9.0/DominionKings
+/home/maxime/Code/C#/PersonalTraining/DominionKings/bin/Debug/net9.0/DominionKings.deps.json
+/home/maxime/Code/C#/PersonalTraining/DominionKings/bin/Debug/net9.0/DominionKings.runtimeconfig.json
+/home/maxime/Code/C#/PersonalTraining/DominionKings/bin/Debug/net9.0/DominionKings.dll
+/home/maxime/Code/C#/PersonalTraining/DominionKings/bin/Debug/net9.0/DominionKings.pdb
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.AssemblyInfo.cs
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.dll
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/refint/DominionKings.dll
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.pdb
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/DominionKings.genruntimeconfig.cache
+/home/maxime/Code/C#/PersonalTraining/DominionKings/obj/Debug/net9.0/ref/DominionKings.dll

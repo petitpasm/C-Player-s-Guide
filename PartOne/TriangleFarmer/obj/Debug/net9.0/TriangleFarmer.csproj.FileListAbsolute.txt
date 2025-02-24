@@ -1,0 +1,14 @@
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/bin/Debug/net9.0/TriangleFarmer
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/bin/Debug/net9.0/TriangleFarmer.deps.json
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/bin/Debug/net9.0/TriangleFarmer.runtimeconfig.json
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/bin/Debug/net9.0/TriangleFarmer.dll
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/bin/Debug/net9.0/TriangleFarmer.pdb
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.AssemblyInfo.cs
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.dll
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/refint/TriangleFarmer.dll
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.pdb
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/TriangleFarmer.genruntimeconfig.cache
+/home/maxime/Code/C#/PersonalTraining/TriangleFarmer/obj/Debug/net9.0/ref/TriangleFarmer.dll
