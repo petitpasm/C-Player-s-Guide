@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/bin/Debug/net9.0/VariableShop
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/bin/Debug/net9.0/VariableShop.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/bin/Debug/net9.0/VariableShop.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/bin/Debug/net9.0/VariableShop.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/bin/Debug/net9.0/VariableShop.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/refint/VariableShop.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/VariableShop.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/VariableShop/obj/Debug/net9.0/ref/VariableShop.dll
