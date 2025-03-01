@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/bin/Debug/net9.0/RepairingClocktower
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/bin/Debug/net9.0/RepairingClocktower.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/bin/Debug/net9.0/RepairingClocktower.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/bin/Debug/net9.0/RepairingClocktower.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/bin/Debug/net9.0/RepairingClocktower.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/refint/RepairingClocktower.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/RepairingClocktower.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/RepairingClocktower/obj/Debug/net9.0/ref/RepairingClocktower.dll

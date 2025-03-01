@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/bin/Debug/net9.0/ChangingColors
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/bin/Debug/net9.0/ChangingColors.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/bin/Debug/net9.0/ChangingColors.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/bin/Debug/net9.0/ChangingColors.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/bin/Debug/net9.0/ChangingColors.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/refint/ChangingColors.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ChangingColors.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ChangingColors/obj/Debug/net9.0/ref/ChangingColors.dll

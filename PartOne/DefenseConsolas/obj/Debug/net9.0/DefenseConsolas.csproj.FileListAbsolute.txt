@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/bin/Debug/net9.0/DefenseConsolas
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/bin/Debug/net9.0/DefenseConsolas.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/bin/Debug/net9.0/DefenseConsolas.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/bin/Debug/net9.0/DefenseConsolas.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/bin/Debug/net9.0/DefenseConsolas.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/refint/DefenseConsolas.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/DefenseConsolas.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/DefenseConsolas/obj/Debug/net9.0/ref/DefenseConsolas.dll

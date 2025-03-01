@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/bin/Debug/net9.0/BuyingInventory
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/bin/Debug/net9.0/BuyingInventory.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/bin/Debug/net9.0/BuyingInventory.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/bin/Debug/net9.0/BuyingInventory.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/bin/Debug/net9.0/BuyingInventory.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/refint/BuyingInventory.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/BuyingInventory.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/BuyingInventory/obj/Debug/net9.0/ref/BuyingInventory.dll
