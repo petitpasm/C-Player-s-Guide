@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/bin/Debug/net9.0/TakingNumber
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/bin/Debug/net9.0/TakingNumber.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/bin/Debug/net9.0/TakingNumber.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/bin/Debug/net9.0/TakingNumber.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/bin/Debug/net9.0/TakingNumber.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/refint/TakingNumber.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/TakingNumber.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/TakingNumber/obj/Debug/net9.0/ref/TakingNumber.dll

@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/bin/Debug/net9.0/ReplicatorOfDto
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/bin/Debug/net9.0/ReplicatorOfDto.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/bin/Debug/net9.0/ReplicatorOfDto.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/bin/Debug/net9.0/ReplicatorOfDto.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/bin/Debug/net9.0/ReplicatorOfDto.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/refint/ReplicatorOfDto.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ReplicatorOfDto.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/ReplicatorOfDto/obj/Debug/net9.0/ref/ReplicatorOfDto.dll

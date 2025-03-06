@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/bin/Debug/net9.0/Manticore
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/bin/Debug/net9.0/Manticore.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/bin/Debug/net9.0/Manticore.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/bin/Debug/net9.0/Manticore.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/bin/Debug/net9.0/Manticore.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/refint/Manticore.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/Manticore.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Manticore/obj/Debug/net9.0/ref/Manticore.dll

@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/bin/Debug/net9.0/Freach
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/bin/Debug/net9.0/Freach.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/bin/Debug/net9.0/Freach.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/bin/Debug/net9.0/Freach.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/bin/Debug/net9.0/Freach.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/refint/Freach.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/Freach.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Freach/obj/Debug/net9.0/ref/Freach.dll

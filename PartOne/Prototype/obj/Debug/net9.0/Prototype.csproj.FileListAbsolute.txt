@@ -1,0 +1,15 @@
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/bin/Debug/net9.0/Prototype
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/bin/Debug/net9.0/Prototype.deps.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/bin/Debug/net9.0/Prototype.runtimeconfig.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/bin/Debug/net9.0/Prototype.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/bin/Debug/net9.0/Prototype.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.AssemblyInfoInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.AssemblyInfo.cs
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.csproj.CoreCompileInputs.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.sourcelink.json
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/refint/Prototype.dll
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.pdb
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/Prototype.genruntimeconfig.cache
+/home/maxime/Code/C#/C-Player-s-Guide/PartOne/Prototype/obj/Debug/net9.0/ref/Prototype.dll
